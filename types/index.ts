@@ -1,6 +1,7 @@
-export interface VarietyOption {
+export interface Product {
   code: string;
   description: string;
+  varieties: string[];
 }
 
 export interface Variety {
@@ -9,8 +10,7 @@ export interface Variety {
   options: VarietyOption[];
 }
 
-export interface Product {
+export interface VarietyOption {
   code: string;
   description: string;
-  varieties: string[];
 }
