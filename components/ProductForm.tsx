@@ -31,7 +31,7 @@ const ProductForm: React.FC = () => {
   };
 
   return (
-    <div className="p-4 max-w-md mx-auto bg-white shadow-md rounded-lg">
+    <div className="p-4 mt-10 max-w-md mx-auto bg-white shadow-md rounded-lg">
       <div className="mb-4">
         <select
           onChange={handleProductChange}
