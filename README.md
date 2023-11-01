@@ -1,6 +1,6 @@
 # Product Selection page
 
-<img width="1666" alt="Screenshot 2023-10-31 at 17 46 18" src="https://github.com/JanisTensons/product-list-page/assets/124044988/6d47baf5-fd5b-450a-a8f9-b71baeae7d24">
+<img width="1286" alt="Screenshot 2023-11-01 at 12 03 11" src="https://github.com/JanisTensons/product-list-page/assets/124044988/390092ea-4e99-4620-b272-4e3f77ff755a">
 
 #### How to install
 
